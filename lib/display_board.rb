@@ -2,6 +2,7 @@
 # out the current state.
 board = [" "," "," "," "," "," "," "," "," "]
 board = [" ", " ", " ", " ", "X", " ", " ", " ", " "]
+board = ["O", " ", " ", " ", " ", " ", " ", " ", " "]
 
 
 def display_board(board)
